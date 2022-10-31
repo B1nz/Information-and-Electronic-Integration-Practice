@@ -1,0 +1,11 @@
+D:\Kun Shan University\Information and Electronic Integration Practice\Visual Studio\Arduino1\bin\Debug\Arduino1.exe.config
+D:\Kun Shan University\Information and Electronic Integration Practice\Visual Studio\Arduino1\bin\Debug\Arduino1.exe
+D:\Kun Shan University\Information and Electronic Integration Practice\Visual Studio\Arduino1\bin\Debug\Arduino1.pdb
+D:\Kun Shan University\Information and Electronic Integration Practice\Visual Studio\Arduino1\obj\Debug\Arduino1.csproj.AssemblyReference.cache
+D:\Kun Shan University\Information and Electronic Integration Practice\Visual Studio\Arduino1\obj\Debug\Arduino1.csproj.SuggestedBindingRedirects.cache
+D:\Kun Shan University\Information and Electronic Integration Practice\Visual Studio\Arduino1\obj\Debug\Arduino1.Form1.resources
+D:\Kun Shan University\Information and Electronic Integration Practice\Visual Studio\Arduino1\obj\Debug\Arduino1.Properties.Resources.resources
+D:\Kun Shan University\Information and Electronic Integration Practice\Visual Studio\Arduino1\obj\Debug\Arduino1.csproj.GenerateResource.cache
+D:\Kun Shan University\Information and Electronic Integration Practice\Visual Studio\Arduino1\obj\Debug\Arduino1.csproj.CoreCompileInputs.cache
+D:\Kun Shan University\Information and Electronic Integration Practice\Visual Studio\Arduino1\obj\Debug\Arduino1.exe
+D:\Kun Shan University\Information and Electronic Integration Practice\Visual Studio\Arduino1\obj\Debug\Arduino1.pdb

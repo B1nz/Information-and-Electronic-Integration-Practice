@@ -1,0 +1,20 @@
+C:\Users\owner\Documents\Visual Studio 2015\Projects\Net_test_server\Net_test_server\bin\Debug\Net_test_server.exe.config
+C:\Users\owner\Documents\Visual Studio 2015\Projects\Net_test_server\Net_test_server\bin\Debug\Net_test_server.exe
+C:\Users\owner\Documents\Visual Studio 2015\Projects\Net_test_server\Net_test_server\bin\Debug\Net_test_server.pdb
+C:\Users\owner\Documents\Visual Studio 2015\Projects\Net_test_server\Net_test_server\obj\Debug\Net_test_server.csprojResolveAssemblyReference.cache
+C:\Users\owner\Documents\Visual Studio 2015\Projects\Net_test_server\Net_test_server\obj\Debug\Net_test_server.Form1.resources
+C:\Users\owner\Documents\Visual Studio 2015\Projects\Net_test_server\Net_test_server\obj\Debug\Net_test_server.Properties.Resources.resources
+C:\Users\owner\Documents\Visual Studio 2015\Projects\Net_test_server\Net_test_server\obj\Debug\Net_test_server.csproj.GenerateResource.Cache
+C:\Users\owner\Documents\Visual Studio 2015\Projects\Net_test_server\Net_test_server\obj\Debug\Net_test_server.exe
+C:\Users\owner\Documents\Visual Studio 2015\Projects\Net_test_server\Net_test_server\obj\Debug\Net_test_server.pdb
+D:\Kun Shan University\Information and Electronic Integration Practice\Net_test_server\Net_test_server\bin\Debug\Net_test_server.exe.config
+D:\Kun Shan University\Information and Electronic Integration Practice\Net_test_server\Net_test_server\bin\Debug\Net_test_server.exe
+D:\Kun Shan University\Information and Electronic Integration Practice\Net_test_server\Net_test_server\bin\Debug\Net_test_server.pdb
+D:\Kun Shan University\Information and Electronic Integration Practice\Net_test_server\Net_test_server\obj\Debug\Net_test_server.csproj.AssemblyReference.cache
+D:\Kun Shan University\Information and Electronic Integration Practice\Net_test_server\Net_test_server\obj\Debug\Net_test_server.csproj.SuggestedBindingRedirects.cache
+D:\Kun Shan University\Information and Electronic Integration Practice\Net_test_server\Net_test_server\obj\Debug\Net_test_server.Form1.resources
+D:\Kun Shan University\Information and Electronic Integration Practice\Net_test_server\Net_test_server\obj\Debug\Net_test_server.Properties.Resources.resources
+D:\Kun Shan University\Information and Electronic Integration Practice\Net_test_server\Net_test_server\obj\Debug\Net_test_server.csproj.GenerateResource.cache
+D:\Kun Shan University\Information and Electronic Integration Practice\Net_test_server\Net_test_server\obj\Debug\Net_test_server.csproj.CoreCompileInputs.cache
+D:\Kun Shan University\Information and Electronic Integration Practice\Net_test_server\Net_test_server\obj\Debug\Net_test_server.exe
+D:\Kun Shan University\Information and Electronic Integration Practice\Net_test_server\Net_test_server\obj\Debug\Net_test_server.pdb
